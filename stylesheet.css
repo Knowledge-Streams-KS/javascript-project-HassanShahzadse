@@ -28,7 +28,7 @@ a{
     font-weight: 400;
     color: white;
 }
-.det{
+#detailed{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -36,9 +36,4 @@ a{
     align-content: center;
     background-color: rgb(158, 158, 146);
     padding: 40px;
-}
-#title{
-    color: white;
-    font-size: 32px;
-    margin: 60px 0px 20px 0px;
 }
